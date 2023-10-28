@@ -44,6 +44,6 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/nikita-skodin/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=romankh3&color=DE002D">
+       <img width="175px" src="https://komarev.com/ghpvc/?username=nikita-skodin&color=DE002D">
    </a>
 </div>
