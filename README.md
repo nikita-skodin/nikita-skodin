@@ -22,12 +22,12 @@ Fresher Java Developer with more than 1 year of education experience.
 
 and so on...
 
-## 🛠 Technical Stack
+### 🛠 Technical Stack
 *   Java SE
 *   PostgreSQL, MuSQL, MongoDB, Liquibase
 *   Spring Framework, Spring Boot, Spring Test, Hibernate, Spring Data Jpa
 
-## Some of my projects you can see in my repositories
+#### Some of my projects you can see in my repositories
 
 <p align='center'>
    📫 How to reach me: <a href='mailto:skodin36@gmail.com'>skodin36@gmail.com</a>
