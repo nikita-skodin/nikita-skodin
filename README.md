@@ -30,7 +30,7 @@ and so on...
 ## Some of my projects you can see in my repositories
 
 <p align='center'>
-   📫 How to reach me: <a href='mailto:roman.beskrovnyy@gmail.com'>roman.beskrovnyy@gmail.com</a>
+   📫 How to reach me: <a href='mailto:skodin36@gmail.com'>skodin36@gmail.com</a>
 </p>
 
 <div align="center" style="margin: 40px 0">
