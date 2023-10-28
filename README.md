@@ -1,11 +1,11 @@
-# Hi, I'm Roman 👋
+# Hi, I'm Nikita 👋
 Senior Software Engineer with more than 5 years of commertial experience. I have excellent knowledge in backend development on Java.
 In general worked with monolitic, microservice and serverless arthitectures. Big part of my acitities is open-source.
 
 <p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true"><img
+   <a href="https://github-readme-stats.vercel.app/api?username=nikita-skodin&show_icons=true&count_private=true"><img
            height=150
-           src="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true"/></a>
+           src="https://github-readme-stats.vercel.app/api?username=nikita-skodin&show_icons=true&count_private=true"/></a>
    <a href="https://github.com/romankh3/github-readme-stats"><img height=150
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=romankh3&layout=compact"/></a>
 </p>
@@ -43,7 +43,7 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
 *   [Flights-monitoring](https://github.com/romankh3/flights-monitoring) - Application for monitoring flight cost based on Skyscanner API
 
 <div align="center" style="margin: 40px 0">
-   <a href="https://github.com/romankh3/github-profile-views-counter">
+   <a href="https://github.com/nikita-skodin/github-profile-views-counter">
        <img width="175px" src="https://komarev.com/ghpvc/?username=romankh3&color=DE002D">
    </a>
 </div>
