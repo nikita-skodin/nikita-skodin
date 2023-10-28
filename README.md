@@ -1,7 +1,7 @@
 # Hi, I'm Nikita 👋
 Fresher Java Developer with more than 1 year of education experience.
 
-### Education / Courses
+### 💻 Education / Courses
 *   Minsk Radioengineering College
   2021 - 2024
   https://mrk-bsuir.by/en/
@@ -27,7 +27,7 @@ and so on...
 *   PostgreSQL, MuSQL, MongoDB, Liquibase
 *   Spring Framework, Spring Boot, Spring Test, Hibernate, Spring Data Jpa
 
-#### Some of my projects you can see in my repositories
+#### 🪪 Some of my projects you can see in my repositories
 
 <p align='center'>
    📫 How to reach me: <a href='mailto:skodin36@gmail.com'>skodin36@gmail.com</a>
