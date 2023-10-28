@@ -13,6 +13,7 @@ Fresher Java Developer with more than 1 year of education experience.
   https://www.udemy.com/course/spring-alishev/
 
 *   Thinking In Java 4th. Bruce Eckel
+  https://chenweixiang.github.io/docs/Thinking_in_Java_4th_Edition.pdf
 
 *   Interactive SQL Simulator
   https://stepik.org/course/63054/info
