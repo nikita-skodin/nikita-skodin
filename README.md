@@ -26,8 +26,8 @@ and so on...
 ### 🛠 Technical Stack
 *   Java SE
 *   Spring Test, JUnit5, Mockito
-*   PostgreSQL, MuSQL, MongoDB, Redis, Liquibase
-*   Spring Framework, Spring Boot, Hibernate, Spring Data Jpa
+*   PostgreSQL, MySQL, MongoDB, Redis, Liquibase
+*   Spring Framework, Spring Boot, Hibernate, Spring Data Jpa, OpenAPI, Spring Cache
 
 #### 🪪 Some of my projects you can see in my repositories
 
