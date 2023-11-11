@@ -3,7 +3,7 @@ Fresher Java Developer with more than 1 year of education experience.
 
 ### 💻 Education / Courses
 *   Minsk Radioengineering College
-  2021 - 2024
+  2021 - 2025
   https://mrk-bsuir.by/en/
 
 *   JavaRush online course
