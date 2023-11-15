@@ -25,9 +25,11 @@ and so on...
 
 ### 🛠 Technical Stack
 *   Java SE
+*   Docker, Ubuntu
+*   Mave, Gradle, Git, OpenAPI
 *   Spring Test, JUnit5, Mockito
 *   PostgreSQL, MySQL, MongoDB, Redis, Liquibase
-*   Spring Framework, Spring Boot, Hibernate, Spring Data Jpa, OpenAPI, Spring Cache
+*   Spring Framework, Spring Boot, Hibernate, Spring Data Jpa, Spring Cache
 
 #### 🪪 Some of my projects you can see in my repositories
 
