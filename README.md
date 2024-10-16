@@ -1,5 +1,5 @@
 # Hi, I'm Nikita 👋
-Fresher Java Developer with more than 1 year of education experience.
+Fresher Java Developer with more than 1 year experience.
 
 ### 💻 Education / Courses
 *   Minsk Radioengineering College
